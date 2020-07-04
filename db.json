@@ -14,7 +14,7 @@ db.zomato.insertMany([
       "id": "307406",
       "name": "Pandit Ji Parantha Hut",
       "locality": "Ashok Vihar Phase 2",
-      "city": "Delhi",
+      "city": "Lucknow",
       "thumb": "https://b.zmtcdn.com/data/pictures/5/19295175/231f0337cd9140f230d8208ddde923c9.jpg",
       "aggregate_rating": 2.5,
       "rating_text": "Very Good",
